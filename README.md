@@ -9,12 +9,15 @@ this-is-me/
 ├── projects/
 │   └── techworld-with-nana-bootcamps/
 │       └── devops/
+│           └── module5/
 └── README.md
 ```
 
 ## Projects
 
-- **TechWorld with Nana - DevOps Bootcamp**: Learning materials and exercises from the DevOps bootcamp
+### TechWorld with Nana - DevOps Bootcamp
+
+- **Module 5**: Cloud server setup and deployment - Setting up Digital Ocean droplets, deploying Java applications, and configuring Linux users with SSH access
 
 ## Adding New Content
 

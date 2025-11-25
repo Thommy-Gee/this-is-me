@@ -23,3 +23,4 @@ This repository follows a modular structure where each major project or learning
 - **techworld-with-nana-bootcamps/devops**: Materials, exercises, and projects from TechWorld with Nana's DevOps bootcamp
 
 As new projects or bootcamp materials are added, they should follow the same pattern: `projects/<project-name>/` or `projects/<bootcamp-series>/<specific-course>/`
+- Do not use git commands. Just give a meaningful git commit message when your work is done in the conventional commits structure.
